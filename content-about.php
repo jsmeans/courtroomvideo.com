@@ -1,8 +1,9 @@
 
 
 
-<div id='work' class='wrapper'>  
-
+<div class='wrapper'>  
+<div id='work'>
+</div>
     <div class="row featurette container marketing">
         
 		<div class='container'>

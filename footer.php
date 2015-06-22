@@ -12,6 +12,11 @@
 
   </div>
 
+  <script type="text/javascript" src="wp-content/themes/courtroom/js/skrollr.min.js"></script>
+    <script type="text/javascript">
+    var s = skrollr.init();
+    </script>
+
     
   <!-- Bootstrap & Plugins core JavaScript
     ================================================== -->

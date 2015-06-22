@@ -39,7 +39,7 @@ img {
   margin-right: auto;
 }
 
-.wrapper:nth-child(even){
+.wrapper:nth-child(odd){
   background:#4790b5;
   padding-bottom:50px;
   color: black;
@@ -237,6 +237,25 @@ margin-bottom: 50px;
   text-align: center;
 }
 
+/* PARALLAX
+-------------------------------------------------- */
+
+/* creating parallax effect through css only */
+
+.paraholder{
+  height:500px;
+}
+
+.parallax{
+  height: 500px;
+  width:100%;
+  background-image: url('img/lens.jpg');
+   background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: relative;
+  background-size: cover;
+}
+
 
 /* SERVICES
 -------------------------------------------------- */
@@ -314,7 +333,9 @@ margin-bottom: 50px;
   margin-right: 10px;
 }
 
-
+#work{
+ height: 200px;
+}
 /* Featurettes
 ------------------------- */
 

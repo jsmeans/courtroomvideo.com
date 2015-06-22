@@ -1,5 +1,15 @@
 <?php
-get_header();?>
+get_header();
+?>
+
+<div class="paraholder">
+<section class="parallax" 
+ data-164-top-top="background-position: 0px 0px;"
+ data-0-top-bottom="background-position: 0px -200px;">
+                
+        
+</section>
+</div>
 
 <div class="navbar-wrapper">
       
